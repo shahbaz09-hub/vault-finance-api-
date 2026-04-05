@@ -11,7 +11,7 @@
              },
     "servers":  [
                     {
-                        "url":  "http://localhost:8080",
+                        "url":  "https://vault-finance-api-production-d709.up.railway.app",
                         "description":  "Default Server"
                     }
                 ],
@@ -1269,3 +1269,4 @@
                                            }
                    }
 }
+
